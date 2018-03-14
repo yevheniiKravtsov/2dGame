@@ -1,8 +1,8 @@
-<!-- For starting project you mast:
+# For starting project you mast:
 1 clone project from git by "git clone"
 2 install all fiels by "npm install"
-3 you must start your web-server on port 9966 by "beefy" 
-4 start the game "http://localhost:9966/"  -->
+3 you must start your web-server on port 9966 by "beefy"
+4 start the game "http://localhost:9966/"  
 
 # Resource Loader [![Build Status](https://travis-ci.org/englercj/resource-loader.svg?branch=master)](https://travis-ci.org/englercj/resource-loader)
 
